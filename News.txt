@@ -1,6 +1,10 @@
 **--==21/8/2025==--**
 Hello everybody! I am very happy to announce that Project Connected is now finally in *early access*!
+
 Now, you're probably wandering, what will dictate the full release?
+
 Well, this early access phase is because at the moment, there will be *many* balancing issues, bugs, and crashes.
+
 Due to this, the Project is being restricted to a couple of members, which includes *you*!
+
 Do expect at any time things to change or break, and please report any bugs you encounter into the Discord server!
