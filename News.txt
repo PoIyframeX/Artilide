@@ -1,3 +1,12 @@
+**--==3/9/2025==--**
+Hello again! Today is the day of the server-wide stress test!
+
+This test's results will primarily dictate in what is worked on in the next update in terms of optimizations.
+
+If everything goes to plan, and no optimizations are needed, expect a update to release shortly.
+
+I will inform everyone on the results of the stress test, and what I will be doing next in result of it.
+
 **--==27/8/2025==--**
 Hello everybody! I am very happy to announce that Artilide is now finally in *early access*!
 
