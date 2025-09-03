@@ -1,5 +1,5 @@
 **--==3/9/2025==--**
-Hello again! Today is the day of the server-wide stress test!
+Hello again! Today is the day of the server wide stress test!
 
 This test's results will primarily dictate in what is worked on in the next update in terms of optimizations.
 
