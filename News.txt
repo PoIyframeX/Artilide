@@ -1,3 +1,12 @@
+**--==8/9/2025==--**
+Greetings everyone! Today is the day of Artilide's full release, along with the server!
+
+This update primarily contians numerous content additions and bug fixes found in the stress test and development server.
+
+Updates may be a little slower then previously, but this is because I want updates to be big and meaningful.
+
+Have fun playing Artilide! I do have big plans for next update so do keep a look out though.
+
 **--==3/9/2025==--**
 Hello again! Today is the day of the server wide stress test!
 
