@@ -1,12 +1,10 @@
 # Artilide v1.2.0
-```ansi
-[0;34m[!] Notice [!]
-```
+
+## [!] Notice [!]
+
 This update focuses on stability and maintaining mod updates, so no new content really besides some new building blocks that are provided. Sorry for the long wait for this though!
 
-```ansi
-[0;32m[+] Additions [+]
-```
+## [+] Additions [+]
 * Added EMI v1.1.22
   * Added EMIffect v1.1.2
   * Added EMI Loot v0.76
@@ -20,9 +18,7 @@ This update focuses on stability and maintaining mod updates, so no new content 
 * Added Fancy Toasts v1.4.1
   * The task sound was changed to minecraft.ui.cartography_table.take_result
 
-```ansi
-[0;33m[/] Changes [/]
-```
+## [/] Changes [/]
 * Updated BaguetteLib to v1.1.1
 * Updated ImmediatelyFast to v1.5.2
 * Updated Moonlight Library to v2.16.14
@@ -48,9 +44,7 @@ This update focuses on stability and maintaining mod updates, so no new content 
 * Updated Axiom to v5.1.1
 * Oretoises and Stonelings can no longer spawn in Alex's Caves Biomes
 
-```ansi
-[0;31m[-] Removals [-]
-```
+## [-] Removals [-]
 * Removed Every Compat (Wood Good)
   * Removed Vertical Slabs Compat
     * These mods caused major instability issues with loading times and ram usage, causing potentially 1GB+ of ram usage for registering blocks alone. *(This is primarily due to how the blocks are dynamically created, and not created as a normal block would be)*
