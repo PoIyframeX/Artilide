@@ -1,6 +1,6 @@
 # Artilide v1.2.0
 
-## [!] Notice [!]
+## [!] Notice [!]
 
 This update focuses on stability and maintaining mod updates, so no new content really besides some new building blocks that are provided. Sorry for the long wait for this though!
 
