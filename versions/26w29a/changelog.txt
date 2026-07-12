@@ -1,4 +1,5 @@
 # 26w29a
+
 **[!] Notice [!]**
 
 This is an initial release for Artilide season 2. Due to the several amount of changes made in this alpha, no changelog is available.
